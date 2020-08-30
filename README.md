@@ -1,6 +1,8 @@
 # CCCIS
 CCCIS Problems
 
+I created and exported the files from Eclipse as an IDE.
+
 Problem 1 still has a strange issue when returning a proper value for a single level linked list (although if that is the case, why is someone running it to be merged to itself?). It does work for the multiple level and null lists i have tried.
 
 Problem 2 handles things well for all my tests, also, if you delete the commenting on line 6 it will print the password before the required change number.
